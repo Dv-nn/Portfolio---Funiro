@@ -27,7 +27,7 @@
 ![alt text](screenshot/img3.png "Корзина покупок")
 ![alt text](screenshot/img4.png "Форма регистрации")
 ![alt text](screenshot/img5.png "Слайдер2")
-![alt text](screenshot/img6.png "Галерея")
+![alt text](screenshot/img6.png "Галерея")  
 ![alt text](screenshot/img8.png "Моб.версия")
 ![alt text](screenshot/img9.png "Моб.версия")
 
