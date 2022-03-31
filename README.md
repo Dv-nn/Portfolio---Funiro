@@ -1,6 +1,6 @@
 # Portfolio---Funiro  
 
-#Funiro  
+# Funiro  
 
 :white_check_mark: Адаптивная-отзывчивая верстка одностраничного сайта с корзиной и товарами.  
 :white_check_mark: БЭМ, SCSS, Flex, Grid.  
@@ -10,16 +10,16 @@
 :white_check_mark: Галерея картинок, плавное движение галереи при движении курсора мыши.  
 :white_check_mark: Слайдеры реализованы Swiper.js.  
 
-#Стек:  
+# Стек:  
 - HTML  
 - SCSS  
 - JS  
 - Gulp  
 
-#Библиотеки:  
+# Библиотеки:  
 - Swiper  
 
-#Screenshot:  
+# Screenshot:  
   
 ![alt text](screenshot/img7.png "Сайт")  
 ![alt text](screenshot/img1.png "Слайдер1")
