@@ -21,13 +21,13 @@
 
 #Screenshot:  
   
-![alt text](screenshots/img7.png "Сайт")  
-![alt text](screenshots/img1.png "Слайдер1")
-![alt text](screenshots/img2.png "Карточки товаров")
-![alt text](screenshots/img3.png "Корзина покупок")
-![alt text](screenshots/img4.png "Форма регистрации")
-![alt text](screenshots/img5.png "Слайдер2")
-![alt text](screenshots/img6.png "Галерея")
-![alt text](screenshots/img8.png "Моб.версия")
-![alt text](screenshots/img9.png "Моб.версия")
+![alt text](screenshot/img7.png "Сайт")  
+![alt text](screenshot/img1.png "Слайдер1")
+![alt text](screenshot/img2.png "Карточки товаров")
+![alt text](screenshot/img3.png "Корзина покупок")
+![alt text](screenshot/img4.png "Форма регистрации")
+![alt text](screenshot/img5.png "Слайдер2")
+![alt text](screenshot/img6.png "Галерея")
+![alt text](screenshot/img8.png "Моб.версия")
+![alt text](screenshot/img9.png "Моб.версия")
 
