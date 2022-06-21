@@ -1,6 +1,6 @@
 # Portfolio---Funiro  
 
-# Funiro  
+https://dv-nn.github.io/Portfolio---Funiro/
 
 :white_check_mark: Адаптивная-отзывчивая верстка одностраничного сайта с корзиной и товарами.  
 :white_check_mark: БЭМ, SCSS, Flex, Grid.  
